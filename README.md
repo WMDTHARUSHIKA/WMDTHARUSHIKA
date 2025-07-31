@@ -31,6 +31,11 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+![WMDTHARUSHIKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMDTHARUSHIKA&show_icons=true&theme=tokyonight)  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WMDTHARUSHIKA&theme=tokyonight" alt="streak"/>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMDTHARUSHIKA&theme=tokyonight&layout=compact)
+
+<p align="center">
+	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
