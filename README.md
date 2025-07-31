@@ -20,9 +20,10 @@
 
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats]([https://github-readme-stats.vercel.app/api?username=DTharushika](https://github.com/WMDTHARUSHIKA)_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+![WMDTHARUSHIKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMDTHARUSHIKA&show_icons=true&theme=tokyonight)  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WMDTHARUSHIKA&theme=tokyonight" alt="streak"/>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMDTHARUSHIKA&theme=tokyonight&layout=compact)
+
 
 
 
