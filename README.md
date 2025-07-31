@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="About Me"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Dilmi Tharushika</h1>
 <h3 align="center">I am software Engineer Student from Sri Lanka</h3>
 
@@ -22,7 +26,31 @@
 ![WMDTHARUSHIKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMDTHARUSHIKA&show_icons=true&theme=tokyonight)               ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WMDTHARUSHIKA&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMDTHARUSHIKA&theme=tokyonight&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMDTHARUSHIKA&theme=tokyonight&layout=compact)
+
+
+
+
+
+
+### My Projects ✨
+
+<a href="https://github.com/WMDTHARUSHIKA/AutoX-new">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WMDTHARUSHIKA&repo=AutoX-new&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/WMDTHARUSHIKA/Personal-Portfolio-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WMDTHARUSHIKA&repo=Personal-Portfolio-website&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/WMDTHARUSHIKA/Drum-Kit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WMDTHARUSHIKA&repo=Drum-Kit&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/WMDTHARUSHIKA/Simon-Game-project-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WMDTHARUSHIKA&repo=Simon-Game-project-&theme=tokyonight" />
+</a>
+
 
 
 
