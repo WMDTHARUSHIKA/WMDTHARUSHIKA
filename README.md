@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilmi Tharushika</h1>
 <h3 align="center">I am software Engineer Student from Sri Lanka</h3>
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtharushika&label=Profile%20views&color=0e75b6&style=flat" alt="dtharushika" /> </p>
 
@@ -20,8 +19,9 @@
 
 
 ## By the way here are some of my statistics 🚀
-![WMDTHARUSHIKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMDTHARUSHIKA&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WMDTHARUSHIKA&theme=tokyonight)
+![WMDTHARUSHIKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=WMDTHARUSHIKA&show_icons=true&theme=tokyonight)               ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WMDTHARUSHIKA&theme=tokyonight)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WMDTHARUSHIKA&theme=tokyonight&layout=compact)
 
 
